@@ -1,8 +1,8 @@
 <?php 
-$host = "monza.id.domainesia.com";
-$username = "kizstone_admin";
-$password = "YB-IDg&PDJHr";
-$db_name = "kizstone_db";
+$host = "-";
+$username = "-";
+$password = "-";
+$db_name = "-";
 
 
 $koneksi = mysqli_connect($host,$username,$password,$db_name);
