@@ -1,0 +1,1 @@
+<div class="logo"> <a href="<?= $default?>index"><img src="<?= $default; ?>images/logo_d9.png" alt="" style="width: 300px;"></a> </div>
